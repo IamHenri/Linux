@@ -2,31 +2,31 @@
 Ressources pour mon Linux
 
 ## Dix outils indispensables
-### Krita
+### > Krita
 design à la photoshop - vectoriel et bitmap
 ---------------------
-### Freefilesync
+### > Freefilesync
 synchro entre dossier
 ---------------------
-### Localsend
+### > Localsend
 partage avec terminaux danasle réseau. Fichiers de tout type. Contrainte = être connecté au même wifi. 
 ---------------------
-### Keepass
+### >Keepass
 ---------------------
-### SimpleScreenRecorder SSR 
+### >SimpleScreenRecorder SSR 
 ---------------------
-### digiKam
+### >digiKam
 gérer les photos
 ---------------------
-### Convert NOW
+### >Convert NOW
 outil de conversion entre toute unités
 ---------------------
-### Synapse 
+### >Synapse 
 ---------------------
-### Kdenlive
+### >Kdenlive
 vidéo éditing - complet
 ---------------------
-### Stacer
+### >Stacer
 gestion du système (vaguement comme CCleaner)
 
 
